@@ -2,7 +2,7 @@
 // ⚠️ HARAP GANTI DENGAN URL DEPLOYMENT GOOGLE APPS SCRIPT ANDA YANG AKTIF
 // =================================================================
 const API_URL = 'https://script.google.com/macros/s/AKfycbzHt1CfGCeXSUK4t1BbO-pUhlk83GwvvvzMLGGngeGyb6U_gRDkuLHD910X89R7u6Op/exec'; 
-const REDIRECT_URL = 'https://platformtugas.com/index/user/login';
+const REDIRECT_URL = 'https://viuakun.com/index/user/login';
 
 
 // Elemen DOM
